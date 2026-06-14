@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/API/API.csproj" Id="eb36b259-2a99-440b-85bb-67f9a6c8a424" />
+  </Folder>
+</Solution>
